@@ -112,7 +112,7 @@ const config = {
     {
       title: "February 4, 2024",
       description:
-        "The day you asked me what the date was, and when I said February 2, you suddenly said, 'Then that will be our anniversary? HAHAHA never forgetti😜'",
+        "The day you asked me what the date was, and when I said February 4, you suddenly said, 'Then that will be our anniversary?' HAHAHA never forgetti😜'",
     },
   ],
 
