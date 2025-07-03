@@ -110,7 +110,7 @@ const config = {
       description: "Our first conversation or interaction in person.🤗",
     },
     {
-      title: "February 2, 2024",
+      title: "February 4, 2024",
       description:
         "The day you asked me what the date was, and when I said February 2, you suddenly said, 'Then that will be our anniversary? HAHAHA never forgetti😜'",
     },
