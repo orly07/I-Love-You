@@ -19,7 +19,7 @@ const config = {
   trendingSearches: [
     "Why is my girlfriend so cute?", // Example trending search query
     "Why does Orlando love her more?", // Another example query
-    `WWhy is Darcy always angry?`, // A personalized trending search
+    `Why is Darcy always angry?`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
