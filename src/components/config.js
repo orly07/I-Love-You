@@ -17,9 +17,9 @@ const config = {
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
-    "Why is my gf so cute?", // Example trending search query
-    "Why does Orlando loves him more?", // Another example query
-    `Why is Darcy is always angry?`, // A personalized trending search
+    "Why is my girlfriend so cute?", // Example trending search query
+    "Why does Orlando love her more?", // Another example query
+    `WWhy is Darcy always angry?`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
