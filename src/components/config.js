@@ -1,3 +1,4 @@
+// src/components/config.js
 const config = {
   /* 
   ████████████████████████████████████████
@@ -52,48 +53,56 @@ const config = {
       artist: "The Corrs", // Artist of the song
       left: "5%", // Positioning on the page
       top: "5%", // Positioning on the page
+      audioFile: "runaway.mp3",
     },
     {
       title: "Isa Lang",
       artist: "Arther Nery",
       left: "40%",
       top: "15%",
+      audioFile: "isa lang.mp3",
     },
     {
       title: "Just Because",
       artist: "MRLD",
       left: "15%",
       top: "40%",
+      audioFile: "Just Because - MRLD.mp3",
     },
     {
       title: "Wherever You Are",
       artist: "5 Seconds Of Summer",
       left: "30%",
       top: "75%",
+      audioFile: "You're Still The One - Shania Twain.mp3",
     },
     {
       title: "You're Still The One",
       artist: "Shaina Twain",
       left: "5%",
       top: "65%",
+      audioFile: "You're Still The One - Shania Twain.mp3",
     },
     {
       title: "Little Things",
       artist: "One Direction",
       left: "25%",
       top: "90%",
+      audioFile: "Little Things - One Direction.mp3",
     },
     {
       title: "ILYSB",
       artist: "LANY",
       left: "35%",
       top: "50%",
+      audioFile: "ILYSB - LANY.mp3",
     },
     {
       title: "An Art Gallery Could Never Be As Unique As You",
       artist: "MRLD",
       left: "10%",
       top: "25%",
+      audioFile: "An Art Galary Could Never Be As Unique As You.mp3",
     },
   ],
 
