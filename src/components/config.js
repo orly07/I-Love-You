@@ -74,7 +74,7 @@ const config = {
       artist: "5 Seconds Of Summer",
       left: "30%",
       top: "75%",
-      audioFile: "You're Still The One - Shania Twain.mp3",
+      audioFile: "Wherever You Are - 5SOS.mp3",
     },
     {
       title: "You're Still The One",
